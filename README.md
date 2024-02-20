@@ -14,7 +14,7 @@
 
 ## Project Structure
 
-- `data/`: Directory containing the input datasets (`dataset1.csv`, `dataset2.csv`, `dataset3.csv`).
+- `data/`: Directory containing the input datasets [`DataSet`](https://drive.google.com/file/d/1_XUBj790lVcg86o2KWOuWulRiafBq5iX/view?usp=share_link).
 - `notebooks/`: Jupyter notebooks containing the Python code for data analysis and visualizations.
   - `Entertainer_Data_Analytics.ipynb`: Main notebook with the entire analysis code.
 - `output/`: Directory to store any output files generated during analysis.
@@ -25,8 +25,8 @@
 Ensure you have the required Python packages installed. You can install them using the following command:
 
 ```bash
-pip install -r requirements.txt
-
+pip install -r requirements.txt 
+```
 # Entertainer Data Analytics
 
 ## Running the Analysis
