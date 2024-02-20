@@ -53,9 +53,6 @@ pip install -r requirements.txt
 
 The project includes various additional visualizations exploring relationships, distributions, and trends within the data.
 
-## Feedback and Contributions
-
-If you have any feedback, suggestions, or would like to contribute to the project, feel free to open an issue or submit a pull request.
 
 ## Author
  Aravindhakumar.U
