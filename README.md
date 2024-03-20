@@ -14,20 +14,24 @@
 
 ## Project Structure
 
-- `data/`: Directory containing the input datasets [`DataSet`](https://drive.google.com/file/d/1_XUBj790lVcg86o2KWOuWulRiafBq5iX/view?usp=share_link).
-- `notebooks/`: Jupyter notebooks containing the Python code for data analysis and visualizations.
-  - `Entertainer_Data_Analytics.ipynb`: Main notebook with the entire analysis code.
-- `output/`: Directory to store any output files generated during analysis.
-- `images/`: Directory for storing images used in the README or generated during analysis.
+- `data`: Directory containing the input datasets [`DataSet`](https://drive.google.com/file/d/1_XUBj790lVcg86o2KWOuWulRiafBq5iX/view?usp=share_link).
+- `notebooks`: Jupyter notebooks containing the Python code for data analysis and visualizations.
+- `Entertainer_Data_Analytics.ipynb`: Main notebook with the entire analysis code.
+- `output`: Directory to store any output files generated during analysis.
+- `images`: Directory for storing images used in the README or generated during analysis.
 
 ## Requirements
 
 Ensure you have the required Python packages installed. You can install them using the following command:
 
 ```bash
-pip install -r requirements.txt 
+pip install numpy
+pip install pandas
+pip install matplotlib
+pip install sckitlearn
+pip install plotly
+other requireed libreries
 ```
-# Entertainer Data Analytics
 
 ## Running the Analysis
 
