@@ -57,3 +57,6 @@ The project includes various additional visualizations exploring relationships, 
 ## Author
  Aravindhakumar.U
 
+## Contact 
+1. gmail : msdaravind92@gmail.com
+2. Phone : 9360379653
